@@ -29,7 +29,7 @@ section.about h3{
 
 }
 section.about p{
-	font-family: 'Original Surfer', cursive;
+	font-family: 'RocknRoll One', sans-serif;
 	font-style: bold;
 	color: white;
 	line-height: 1.5;
@@ -70,7 +70,7 @@ display: flex;
 	background:transparent;
 	color:white;
 	border-color:none;
-box-shadow:0  20px 35px white;
+box-shadow:0  20px 35px white ;
 
 }
 .btn-secondary:hover{
