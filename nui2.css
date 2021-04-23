@@ -2,7 +2,7 @@
 
 
 body{
-	background-image: url(./op.gif);
+	background-image: url(./inh.gif);
 	height:750px;
 	padding: 0;
 
@@ -98,7 +98,7 @@ footer{
 }
 
 .footer-bottom{
-	background:black;
+	background:transparent;
 	padding: 20px 0;
 	text-align: center;
 	}
