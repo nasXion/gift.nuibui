@@ -139,3 +139,7 @@ position: fixed;
 	color: white;
 	padding-left: 20rem;
 }
+.card{
+	text-decoration: none;
+	color: white;
+}
