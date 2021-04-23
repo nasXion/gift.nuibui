@@ -3,7 +3,7 @@
 
 body{
 	background-image: url(./aa.gif);
-	height:750px;
+	height:720px;
 	padding: 0;
 
 }
@@ -13,7 +13,7 @@ section.about h1{
 	font-size: 2.6rem;
 	font-weight: 400;
 	padding-left: 7rem;
-	color: white;
+	color: lightgrey;
 }
 section.about h1 span{
 	color: white;
@@ -24,7 +24,7 @@ section.about h3{
 	margin-bottom: 1rem;
 	font-weight: 400;
 	padding-left: 7rem;
-	color: white;
+	color: lightgrey;
 	padding-top: 0.1rem;
 
 }
@@ -69,14 +69,15 @@ display: flex;
 .btn-secondary{
 	background:transparent;
 	color:white;
-	border-color:none;
-box-shadow:0  20px 35px white ;
+	border-color:grey;
 
 }
 .btn-secondary:hover{
 	background: white;
 	color:black;
-	box-shadow: none;
+	box-shadow:0  20px 35px white ;
+	border: none;
+
 }
 .gift{
 	padding: 2.15rem;
@@ -86,7 +87,7 @@ box-shadow:0  20px 35px white ;
 .header{
 	background: transparent;
 	color: white;
-	padding: 2rem;
+
 	text-align: center;
 	font-family: 'Original Surfer', cursive;
 	font-size: 30px;
@@ -107,12 +108,31 @@ footer{
 	font-size: 14px;
 	word-spacing: 2px;
 	text-transform: capitalize;
-	color: lightgrey;
+	color: lightgrey;	
 }
+
 .footer-bottom span{
 	color: lightgrey;
 	opacity: 0.6;
 	font-weight: 200;
+
 }
 
+.btn-primary{
+	background:transparent;
+	color:white;
+border-color:grey;
 
+}
+.btn-primary:hover{
+	background: white;
+	color:black;
+	box-shadow:0  20px 35px white ;
+	border: none;
+}
+
+.song{
+	text-decoration: none;
+	color: white;
+	padding-left: 29rem;
+}
