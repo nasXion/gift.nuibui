@@ -70,6 +70,8 @@ display: flex;
 	background:transparent;
 	color:white;
 	border-color:grey;
+	
+
 
 }
 .btn-secondary:hover{
@@ -87,20 +89,20 @@ display: flex;
 .header{
 	background: transparent;
 	color: white;
-
+padding-top: 1.5rem;
 	text-align: center;
 	font-family: 'Original Surfer', cursive;
 	font-size: 30px;
 }
 
 footer{
-	font-family: 'Zen Dots' sans-serif;
-
+	font-family: 'Satisfy', cursive;
 }
+
 
 .footer-bottom{
 	background:transparent;
-	padding: 20px 0;
+	padding:30px 0;
 	text-align: center;
 	}
 
@@ -109,8 +111,8 @@ footer{
 	word-spacing: 2px;
 	text-transform: capitalize;
 	color: lightgrey;	
-}
 
+}
 .footer-bottom span{
 	color: lightgrey;
 	opacity: 0.6;
@@ -122,17 +124,18 @@ footer{
 	background:transparent;
 	color:white;
 border-color:grey;
-
+position: fixed;
 }
 .btn-primary:hover{
 	background: white;
 	color:black;
 	box-shadow:0  20px 35px white ;
 	border: none;
+	position: fixed;
 }
 
 .song{
 	text-decoration: none;
 	color: white;
-	padding-left: 29rem;
+	padding-left: 20rem;
 }
