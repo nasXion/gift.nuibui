@@ -147,3 +147,13 @@ padding: 5px;
 	width: 80px;
 	height: 80px;
 }
+
+
+#eid {
+	background: url("./eid.png")no-repeat;
+}
+
+
+.rog{
+	padding-left: 60%;
+}
